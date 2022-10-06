@@ -1,4 +1,8 @@
 Masukan Nama Kalian di list ini :
 - Muhammad Ihsan Fauzi Rahman
 - Asep Ridwan
+<<<<<<< HEAD
 - Muhammad Farhan Novian
+=======
+- Resa Auliana Risyan
+>>>>>>> 2a73a06e329f23eb3860d8cd805ad097816431a2
